@@ -1,0 +1,4 @@
+#Sat Oct 29 17:27:25 IST 2022
+base.0=C\:\\Users\\asus\\AndroidStudioProjects\\fantasyApp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
